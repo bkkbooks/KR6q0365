@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0365_000-X.yaml, hash: 'sha256:a217b3b031a0990c9118cf8f844fb117452bd4cec7ba57472b21e7a5f1a5b9ad'}
+  - {seq: 0, filename: KR6q0365_000-X.yaml, hash: 'sha256:336a375fad9102dbcf953b830495921d97ed4acc91463ab48f29956f7ed0a4e8'}
   - {seq: 1, filename: KR6q0365_001-X.yaml, hash: 'sha256:5a04d7e7c22edc6f965c672f2fce79c09acf9ad72f4fa6c113fb1d79d96808e1'}
   - {seq: 2, filename: KR6q0365_002-X.yaml, hash: 'sha256:2be83650c1af0c9adccfc6f3a0fbbf995cf6351ff8f41a5928c5ed8f2c40a74a'}
   - {seq: 3, filename: KR6q0365_003-X.yaml, hash: 'sha256:530811a70c693e2629c3b35416cd241385915ab4d64b38933421ee919929df64'}
@@ -54,7 +54,7 @@ assets:
   - {seq: 34, filename: KR6q0365_034-X.yaml, hash: 'sha256:2abb8a64809e3af03962548c4687b4301608ad6dfe36c04ba15af528d46610ea'}
   - {seq: 35, filename: KR6q0365_035-X.yaml, hash: 'sha256:c1ba2dfdb9c6be8f2809d760a64db5f3b440adab08614279c70410ddeff1f8ff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0365_000-X.markers.yaml, hash: 'sha256:ece4297a974549f31a3317363343e108c87f63be8b83ba97527c870fc1e9ce7a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0365_000-X.markers.yaml, hash: 'sha256:7c3577e9c5e9b74cd26185a3ca93248c48b0ccb117e6f14854b50b4d8eb3da1f'}
   - {seq: 1, role: markers, filename: assets/KR6q0365_001-X.markers.yaml, hash: 'sha256:ee5e77d9bba4848b37dc10fb1ad70885592e3651aab6030a9a151a40eac80e3f'}
   - {seq: 2, role: markers, filename: assets/KR6q0365_002-X.markers.yaml, hash: 'sha256:c19e8e206009580fdc662e75fe971f2a63484820150f685d3a2e16663dcbb8a9'}
   - {seq: 3, role: markers, filename: assets/KR6q0365_003-X.markers.yaml, hash: 'sha256:9faa8e889ecd3ff7ceebaa92a5a10f9b59a608fb505a98f966e035cff1c649ad'}
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0365_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1435-A 無異禪師語錄序
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0365_X_000-mulu-2
     span:
-    - front
+    - body
     - 320
     - 320
   label: No. 1435-B 錫類法檀序
@@ -113,7 +113,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0365_X_000-mulu-3
     span:
-    - front
+    - body
     - 941
     - 941
   label: No. 1435-C 賸錄序
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0365_X_000-mulu-4
     span:
-    - front
+    - body
     - 1120
     - 1120
   label: No. 1435-D 禪警語序
@@ -133,7 +133,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0365_X_000-mulu-5
     span:
-    - front
+    - body
     - 2091
     - 2091
   label: No. 1435-E 宗教答響序
@@ -143,7 +143,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0365_X_000-mulu-6
     span:
-    - front
+    - body
     - 2335
     - 2335
   label: 無異禪師廣錄總目
@@ -6989,4 +6989,4 @@ table_of_contents:
   label: No. 1435-F 募刻祖翁異和尚廣錄序
   type: mulu
   level: 1
-hash: sha256:3d31d5fca6cde1d1ed3d48e1ba76b5fcec4ac671c12642631146498654e3bfa5
+hash: sha256:56af5502b3a9d5cb51024e2e1093aa04e7a0ba5bd0de42c45164558dec8d622c
